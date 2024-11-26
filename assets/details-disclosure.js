@@ -16,7 +16,6 @@ class DetailsDisclosure extends HTMLElement {
 
   onToggle() {
     if (!this.animations) this.animations = this.content.getAnimations();
-    console.log("Test")
     if (this.mainDetailsToggle.hasAttribute('open')) {
       this.animations.forEach((animation) => animation.play());
     } else {
