@@ -40,7 +40,7 @@ class DetailsDisclosure extends HTMLElement {
   onMouseLeave() {
     this.hoverTimeout = setTimeout(() => {
       this.close();
-    }, 300);
+    }, 100);
   }
 
   open() {
