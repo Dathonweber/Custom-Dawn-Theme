@@ -60,16 +60,16 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/09ba62adafa6de79108792f1e5467f6e.jpg",
-            "heading": "Image slide",
+            "heading": "Palladium PallaTech",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "The Palladium iconic classic receives a subtle, yet stylish update",
             "button_label": "Shop Now",
             "link": "shopify://products/palladium-pallatech-hi-tx-chevron",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 40,
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
