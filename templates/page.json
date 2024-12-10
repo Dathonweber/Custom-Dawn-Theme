@@ -26,7 +26,7 @@
             "image": "shopify://shop_images/633e8800dbc6dc5704b35fd027e4eeaa.jpg",
             "heading": "Dr. Martens",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "This classic style has stood the test of time",
             "button_label": "Shop Now",
             "link": "shopify://products/dr-martens-1460z-dmc-8-eye-boot-cherry-smooth",
             "button_style_secondary": true,
@@ -35,6 +35,23 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_Tz4bNX": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -58,6 +75,7 @@
       },
       "block_order": [
         "slide_RdqMNm",
+        "slide_Tz4bNX",
         "slide_xkxdLD"
       ],
       "settings": {
