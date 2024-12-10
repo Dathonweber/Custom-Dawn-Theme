@@ -8,16 +8,72 @@
  * ------------------------------------------------------------
  */
 {
-    "sections": {
-        "main": {
-            "type": "main-page",
-            "settings": {
-                "padding_top": 28,
-                "padding_bottom": 28
-            }
-        }
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "color_scheme": ""
+      }
     },
-    "order": [
-        "main"
-    ]
+    "slideshow_bmebPR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_RdqMNm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/633e8800dbc6dc5704b35fd027e4eeaa.jpg",
+            "heading": "Dr. Martens",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "shopify://products/dr-martens-1460z-dmc-8-eye-boot-cherry-smooth",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_xkxdLD": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_RdqMNm",
+        "slide_xkxdLD"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_bmebPR"
+  ]
 }
