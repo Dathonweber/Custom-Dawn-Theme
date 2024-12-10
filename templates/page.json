@@ -64,13 +64,13 @@
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Shop Now",
-            "link": "",
+            "link": "shopify://products/palladium-pallatech-hi-tx-chevron",
             "button_style_secondary": false,
             "box_align": "bottom-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         },
