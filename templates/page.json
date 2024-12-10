@@ -41,11 +41,12 @@
         "slide_a4XNkD": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/44694ee386818f3276566210464cf341.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "button_label": "Shop Now",
+            "link": "shopify://products/adidas-superstar-80s",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -58,14 +59,14 @@
         "slide_Tz4bNX": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/9f190cba7218c819c81566bca6298c6a.jpg",
+            "image": "shopify://shop_images/09ba62adafa6de79108792f1e5467f6e.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
