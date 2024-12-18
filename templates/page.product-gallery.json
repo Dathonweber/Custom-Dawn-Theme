@@ -16,9 +16,16 @@
         "padding_bottom": 28,
         "color_scheme": ""
       }
+    },
+    "product-gallery": {
+      "type": "product-gallery",
+      "settings": {
+        
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "product-gallery"
   ]
 }
