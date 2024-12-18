@@ -1,0 +1,4 @@
+{% assign product_object = all_products["NIKE | CRACKLE PRINT TB TEE"] %}
+{% for image_item in product_object.images %}
+    <img src="{{image_item | img_url}}" alt="" width="" height=""/>
+{% endfor %}
