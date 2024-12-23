@@ -19,9 +19,17 @@
         "padding_bottom": 28,
         "color_scheme": ""
       }
-    }
+    },
+      "services": {
+        "type": "services",
+        "settings": {
+          
+        }
+      },
+
   },
   "order": [
-    "main"
+    "main",
+    "services"
   ]
 }
